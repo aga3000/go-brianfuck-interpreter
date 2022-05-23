@@ -1,0 +1,6 @@
+github.com/aga3000/go-brianfuck v0.0.0-20220523222450-9bbdd067537a h1:feqmWNwm8Qa2OV3VcA03paZ+km8jJf1lVm30FVateqo=
+github.com/aga3000/go-brianfuck v0.0.0-20220523222450-9bbdd067537a/go.mod h1:aZcpeeJozHA6akavhWHtZbADRIiloTwSycwiK6XszhI=
+github.com/aga3000/go-brianfuck v0.0.1 h1:noKhWYkCOdo2+FwH9cQ3o/F65pWx3+K/sUS7jgVfenY=
+github.com/aga3000/go-brianfuck v0.0.1/go.mod h1:aZcpeeJozHA6akavhWHtZbADRIiloTwSycwiK6XszhI=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
